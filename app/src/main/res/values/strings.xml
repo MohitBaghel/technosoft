@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">technosoft</string>
+    <string name="alertInternet">Please check your Internet Connectivity</string>
+</resources>
